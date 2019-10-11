@@ -1,9 +1,9 @@
 #cloud-config
 users:
- - name: "seca-dev"
+ - name: "cams-seca"
    groups:
     - sudo
     - docker
   ssh-authorized-keys:
-    - "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEA2KfXB4n6hpKwZ1Ku8yY1HinyXH4bFjVaP4zk6dPPESiyWTNygmJ1vfkvWL6hmHIbxUlk0azseWkXVJiJinsqhtIe7WIkCBPBSmAHKk0cUw3RXrQajWcLjlDdUAvthWM6uNQdn46e3gk0dJ+sTStqpyOzyxKDRecDEN3FpcxlBQxzJGEAYnAIgOshjLB+WQ7kyZJirhg5xvYe9D+WFKsZ9ca5N8ItgO0ZFDH4cY4KSGUOO29OsGFAK74f41jy0w6eUuLZa9WZe1IjawftOPVVyx14qTFT8W0jKXKzfg5T0rKy1+psenqVZCITt/kRv63Nl0zUiNnF47hFcr5maIcBMQ== "
+    - "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhCBuf1el0I8Rs/XL0s747o8vnRw3czOao4nVUMghddaXQriQmxeIcuzLyNzGyCbr3kNFjFdllJLssiE2TjGfhRzQHh0I4Psxv1hB8+s6ZgELAmNaeYnJEsu75g1paOy0RZ0fMhRMRdGEChnFCpGQ69sg6CTS6584bo2MR/6DTBilPOwBqMCVbUH20CZnx8qa88PhtMyHP1WKqR4fFlI+dL1TbtV3LCJhBqGmuZeF2Ga/He7GTP6j2JPAsTnqeURgpPEm9pgPzpP8aLgRmpLvWO18b7QUp+smF/oFZrlTZRBKd97xlnFF8pDOcFsr2JgVcamrvGMQ5aKBq6BM9CGlUw== cams-seca-key-10-11-2019"
 
