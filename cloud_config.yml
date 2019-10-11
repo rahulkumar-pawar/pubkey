@@ -2,8 +2,8 @@
 users:
  - name: "cams-seca"
    groups:
-    - sudo
-    - docker
-  ssh-authorized-keys:
+    - "sudo"
+    - "docker"
+   ssh-authorized-keys:
     - "ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAhCBuf1el0I8Rs/XL0s747o8vnRw3czOao4nVUMghddaXQriQmxeIcuzLyNzGyCbr3kNFjFdllJLssiE2TjGfhRzQHh0I4Psxv1hB8+s6ZgELAmNaeYnJEsu75g1paOy0RZ0fMhRMRdGEChnFCpGQ69sg6CTS6584bo2MR/6DTBilPOwBqMCVbUH20CZnx8qa88PhtMyHP1WKqR4fFlI+dL1TbtV3LCJhBqGmuZeF2Ga/He7GTP6j2JPAsTnqeURgpPEm9pgPzpP8aLgRmpLvWO18b7QUp+smF/oFZrlTZRBKd97xlnFF8pDOcFsr2JgVcamrvGMQ5aKBq6BM9CGlUw== cams-seca-key-10-11-2019"
 
